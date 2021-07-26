@@ -1,6 +1,8 @@
 # 2D-Maps-for-Ig-domains-and-for-RBDs
 
 # 2DproteoMapper 
+![Logo](https://github.com/ByrumLab/2D-Maps-for-Ig-domains-and-for-RBDs/logo.png)
+
 
 Hackathon team. Lead: Philippe Youkharibache. Tech: Matteo Manfredi and Chiragkumar Patel. Writer: Stephanie Byrum
 
