@@ -12,7 +12,7 @@ Hackathon team. Lead: Philippe Youkharibache. Tech: Matteo Manfredi and Chiragku
 
 Ig domains are an important component of the immune system. They recognize foreign antigens, bind the receptor binding domain (RBD), and clears the antigen from the system. IgV domains are particularly important due to the variable region, which can bind new antigens and RBDs. Visualizing the domain folds and RBD binding in a 2D map will provide insight into regions of gaps or mutations preventing the immune system from recognizing pathogens. 2D maps will provide a tool to identify therapuetic targets. 
 
-![Graphical output of motifx Sequence motif analysis](https://github.com/ByrumLab/)
+![Graphical_significance](https://github.com/ByrumLab/2D-Maps-for-Ig-domains-and-for-RBDs/logo.png)
 
 3. How to use 2DproteoMapper?
 
