@@ -1,6 +1,4 @@
-# 2D-Maps-for-Ig-domains-and-for-RBDs
 
-# 2DproteoMapper 
 ![Logo](https://github.com/hackathonismb/2D-Maps-for-Ig-domains-and-for-RBDs/blob/main/Logo-6.png)
 
 Hackathon team. Lead: Philippe Youkharibache. Tech: Matteo Manfredi and Chiragkumar Patel. Writer: Stephanie Byrum
@@ -23,7 +21,7 @@ Ig domains are an important component of the immune system. They recognize forei
 
 3. **Create 2D maps for domains with no prior 3D annotation:** Identify the key features using machine learning in order to create novel 2D maps from 1D sequence information
 
-# 4. How to use 2DproteoMapper?
+# 4. How to use Pro2DBio?
 
 **Workflow** 
 
