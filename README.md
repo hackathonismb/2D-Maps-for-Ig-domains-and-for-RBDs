@@ -11,7 +11,7 @@ Hackathon team. Lead: Philippe Youkharibache. Tech: Matteo Manfredi, Chiragkumar
 
 Ig domains are an important component of the immune system. They recognize foreign antigens, bind the receptor binding domain (RBD), and clear antigens from the biological system. IgV domains are particularly important due to the ability of the variable region to bind new antigens and RBDs. Visualizing the domain folds and RBD binding in a 2D map will provide insight into regions of insertions and/or mutations preventing the immune system from recognizing pathogens. 2D maps will provide a tool to identify new therapeutic targets. 
 
-![Graphical_Significance](https://github.com/ByrumLab/2D-Maps-for-Ig-domains-and-for-RBDs/blob/main/2Dmap_IgV2D.001.png)
+![Graphical_Significance](https://github.com/hackathonismb/2D-Maps-for-Ig-domains-and-for-RBDs/blob/main/2D-biocontext.001.jpeg)
 
 # 3. Project goals:
 
