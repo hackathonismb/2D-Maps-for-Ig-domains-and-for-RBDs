@@ -25,4 +25,6 @@ Ig domains are an important component of the immune system. They recognize forei
 
 **Workflow** 
 
+![Workflow](https://github.com/hackathonismb/2D-Maps-for-Ig-domains-and-for-RBDs/blob/main/Workflow.001.jpeg)
+
 **Installation and Requirements** 
