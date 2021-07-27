@@ -1,11 +1,11 @@
 
-![Logo](https://github.com/hackathonismb/2D-Maps-for-Ig-domains-and-for-RBDs/blob/main/Logo-6.png)
+![Logo](https://github.com/hackathonismb/2D-Maps-for-Ig-domains-and-for-RBDs/blob/main/Logo-10.png)
 
 Hackathon team. Lead: Philippe Youkharibache. Tech: Matteo Manfredi and Chiragkumar Patel. Writer: Stephanie Byrum
 
 # 1. What is the problem? 
 
-**Understanding 3D protein structure within 2D space.** 1D protein sequence provides amino acid residue information; however, critical topological information is completely absent. On the other hand, 3D structure provides toplogical annotation and visualization of domain interactions, but without the amino acid residue information. 2D visualizations provide both sequence information and 3D structual annotations, which allows biologists to quickly interpret the function. 
+**Understanding 3D protein structure within 2D space.** 1D protein sequence provides amino acid residue information; however, critical topological information is completely absent. On the other hand, 3D structure provides toplogical annotation and visualization of domain interactions, but without the amino acid residue information and is difficult to interpret biological function. 2D representation maps provide both sequence information and 3D assembly of domains, which allows biologists to understand residue relationships and ultimately function. 
 
 # 2. Why is it significant? 
 
@@ -21,7 +21,7 @@ Ig domains are an important component of the immune system. They recognize forei
 
 3. **Create 2D maps for domains with no prior 3D annotation:** Identify the key features using machine learning in order to create novel 2D maps from 1D sequence information
 
-# 4. How to use Pro2DBio?
+# 4. How to use ProteoMap?
 
 **Workflow** 
 
