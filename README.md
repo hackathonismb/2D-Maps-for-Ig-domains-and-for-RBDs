@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/hackathonismb/2D-Maps-for-Ig-domains-and-for-RBDs/blob/main/Logo-10.png)
+![Logo](https://github.com/hackathonismb/2D-Maps-for-Ig-domains-and-for-RBDs/blob/main/Logo-Final.png)
 
 Hackathon team. Lead: Philippe Youkharibache. Tech: Matteo Manfredi, Chiragkumar Patel, and Raul Cachau. Writer: Stephanie Byrum
 
