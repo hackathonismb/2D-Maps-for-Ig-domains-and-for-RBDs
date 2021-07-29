@@ -1,0 +1,132 @@
+# Input Sequence
+# ANARCI numbered
+# Domain 1 of 1
+# Most significant HMM hit
+#|species|chain_type|e-value|score|seqstart_index|seqend_index|
+#|mouse|H|1.7e-58|187.2|1|121|
+# Most sequence-identical germlines
+#|species|v_gene|v_identity|j_gene|j_identity|
+#|mouse|IGHV1-12*01|0.93|IGHJ4*01|0.86|
+# Scheme = kabat
+H 1       Q
+H 2       V
+H 3       Q
+H 4       L
+H 5       Q
+H 6       Q
+H 7       P
+H 8       G
+H 9       A
+H 10      E
+H 11      L
+H 12      V
+H 13      K
+H 14      P
+H 15      G
+H 16      A
+H 17      S
+H 18      V
+H 19      K
+H 20      M
+H 21      S
+H 22      C
+H 23      K
+H 24      A
+H 25      S
+H 26      G
+H 27      Y
+H 28      T
+H 29      F
+H 30      T
+H 31      S
+H 32      Y
+H 33      N
+H 34      M
+H 35      H
+H 36      W
+H 37      V
+H 38      K
+H 39      Q
+H 40      T
+H 41      P
+H 42      G
+H 43      Q
+H 44      G
+H 45      L
+H 46      E
+H 47      W
+H 48      I
+H 49      G
+H 50      A
+H 51      I
+H 52      Y
+H 52    A P
+H 53      G
+H 54      N
+H 55      G
+H 56      D
+H 57      T
+H 58      S
+H 59      Y
+H 60      N
+H 61      Q
+H 62      K
+H 63      F
+H 64      K
+H 65      G
+H 66      K
+H 67      A
+H 68      T
+H 69      L
+H 70      T
+H 71      A
+H 72      D
+H 73      K
+H 74      S
+H 75      S
+H 76      S
+H 77      T
+H 78      A
+H 79      Y
+H 80      M
+H 81      Q
+H 82      L
+H 82    A S
+H 82    B S
+H 82    C L
+H 83      T
+H 84      S
+H 85      E
+H 86      D
+H 87      S
+H 88      A
+H 89      V
+H 90      Y
+H 91      Y
+H 92      C
+H 93      A
+H 94      R
+H 95      E
+H 96      G
+H 97      L
+H 98      G
+H 99      A
+H 100     L
+H 100   A L
+H 100   B R
+H 100   C D
+H 100   D L
+H 101     Y
+H 102     Y
+H 103     W
+H 104     G
+H 105     Q
+H 106     G
+H 107     T
+H 108     S
+H 109     V
+H 110     T
+H 111     V
+H 112     S
+H 113     S
+//

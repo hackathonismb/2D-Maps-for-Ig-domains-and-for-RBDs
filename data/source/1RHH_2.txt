@@ -1,0 +1,143 @@
+# Input Sequence
+# ANARCI numbered
+# Domain 1 of 1
+# Most significant HMM hit
+#|species|chain_type|e-value|score|seqstart_index|seqend_index|
+#|human|H|2.3e-48|154.5|0|131|
+# Most sequence-identical germlines
+#|species|v_gene|v_identity|j_gene|j_identity|
+#|human|IGHV1-69D*01|0.84|IGHJ4*02|0.93|
+# Scheme = kabat
+H 1       E
+H 2       V
+H 3       Q
+H 4       L
+H 5       L
+H 6       E
+H 6     A Q
+H 7       S
+H 8       G
+H 9       A
+H 10      E
+H 11      V
+H 12      K
+H 13      K
+H 14      P
+H 15      G
+H 16      S
+H 17      S
+H 18      V
+H 19      Q
+H 20      V
+H 21      S
+H 22      C
+H 23      K
+H 24      A
+H 25      S
+H 26      G
+H 27      G
+H 28      T
+H 29      F
+H 30      S
+H 31      M
+H 32      Y
+H 33      G
+H 34      F
+H 35      N
+H 36      W
+H 37      V
+H 38      R
+H 39      Q
+H 40      A
+H 41      P
+H 42      G
+H 43      H
+H 44      G
+H 45      L
+H 46      E
+H 47      W
+H 48      M
+H 49      G
+H 50      G
+H 51      I
+H 52      I
+H 52    A P
+H 53      I
+H 54      F
+H 55      G
+H 56      T
+H 57      S
+H 58      N
+H 59      Y
+H 60      A
+H 61      Q
+H 62      K
+H 63      F
+H 64      R
+H 65      G
+H 66      R
+H 67      V
+H 68      T
+H 69      F
+H 70      T
+H 71      A
+H 72      D
+H 73      Q
+H 74      A
+H 75      T
+H 76      S
+H 77      T
+H 78      A
+H 79      Y
+H 80      M
+H 81      E
+H 82      L
+H 82    A T
+H 82    B N
+H 82    C L
+H 83      R
+H 84      S
+H 85      D
+H 86      D
+H 87      T
+H 88      A
+H 89      V
+H 90      Y
+H 91      Y
+H 92      C
+H 93      A
+H 94      R
+H 95      D
+H 96      F
+H 97      G
+H 98      P
+H 99      D
+H 100     W
+H 100   A E
+H 100   B D
+H 100   C G
+H 100   D D
+H 100   E S
+H 100   F Y
+H 100   G D
+H 100   H G
+H 100   I S
+H 100   J G
+H 100   K R
+H 100   L G
+H 100   M F
+H 100   N F
+H 101     D
+H 102     F
+H 103     W
+H 104     G
+H 105     Q
+H 106     G
+H 107     T
+H 108     L
+H 109     V
+H 110     T
+H 111     V
+H 112     S
+H 113     S
+//
